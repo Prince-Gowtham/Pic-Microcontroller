@@ -1,0 +1,31 @@
+Warning[205] LIGHT BLINKING\LED2.ASM 2 : Found directive in column 1. (ORG)
+Warning[203] LIGHT BLINKING\LED2.ASM 3 : Found opcode in column 1. (BCF)
+Warning[203] LIGHT BLINKING\LED2.ASM 4 : Found opcode in column 1. (BCF)
+Warning[203] LIGHT BLINKING\LED2.ASM 5 : Found opcode in column 1. (MOVLW)
+Warning[209] LIGHT BLINKING\LED2.ASM 5 : Missing quote
+Warning[203] LIGHT BLINKING\LED2.ASM 6 : Found opcode in column 1. (MOVWF)
+Warning[203] LIGHT BLINKING\LED2.ASM 7 : Found opcode in column 1. (MOVWF)
+Warning[203] LIGHT BLINKING\LED2.ASM 8 : Found opcode in column 1. (MOVLW)
+Warning[209] LIGHT BLINKING\LED2.ASM 8 : Missing quote
+Warning[203] LIGHT BLINKING\LED2.ASM 9 : Found opcode in column 1. (MOVWF)
+Warning[203] LIGHT BLINKING\LED2.ASM 10 : Found opcode in column 1. (MOVWF)
+Warning[203] LIGHT BLINKING\LED2.ASM 11 : Found opcode in column 1. (MOVLW)
+Warning[209] LIGHT BLINKING\LED2.ASM 11 : Missing quote
+Warning[203] LIGHT BLINKING\LED2.ASM 12 : Found opcode in column 1. (MOVWF)
+Warning[203] LIGHT BLINKING\LED2.ASM 13 : Found opcode in column 1. (MOVWF)
+Warning[203] LIGHT BLINKING\LED2.ASM 14 : Found opcode in column 1. (MOVLW)
+Warning[209] LIGHT BLINKING\LED2.ASM 14 : Missing quote
+Warning[203] LIGHT BLINKING\LED2.ASM 15 : Found opcode in column 1. (MOVWF)
+Warning[203] LIGHT BLINKING\LED2.ASM 16 : Found opcode in column 1. (MOVWF)
+Warning[203] LIGHT BLINKING\LED2.ASM 17 : Found opcode in column 1. (CALL)
+Warning[203] LIGHT BLINKING\LED2.ASM 18 : Found opcode in column 1. (CALL)
+Warning[203] LIGHT BLINKING\LED2.ASM 19 : Found opcode in column 1. (GOTO)
+Warning[203] LIGHT BLINKING\LED2.ASM 20 : Found opcode in column 1. (NOP)
+Warning[207] LIGHT BLINKING\LED2.ASM 22 : Found label after column 1. (GOWTHAM)
+Warning[209] LIGHT BLINKING\LED2.ASM 26 : Missing quote
+Warning[207] LIGHT BLINKING\LED2.ASM 28 : Found label after column 1. (GOWTHAM1)
+Warning[207] LIGHT BLINKING\LED2.ASM 34 : Found label after column 1. (GOWTHAM2)
+Warning[209] LIGHT BLINKING\LED2.ASM 38 : Missing quote
+Warning[207] LIGHT BLINKING\LED2.ASM 40 : Found label after column 1. (GOWTHAM3)
+Warning[203] LIGHT BLINKING\LED2.ASM 45 : Found opcode in column 1. (NOP)
+Warning[205] LIGHT BLINKING\LED2.ASM 47 : Found directive in column 1. (END)

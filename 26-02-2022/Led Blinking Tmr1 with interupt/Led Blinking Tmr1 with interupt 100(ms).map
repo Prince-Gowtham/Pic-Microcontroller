@@ -1,0 +1,43 @@
+MPLINK 4.34, Linker
+Linker Map File - Created Sun Feb 27 13:19:24 2022
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000002
+                   .org_1       code   0x000004    program   0x000048
+                   .cinit    romdata   0x002000    program   0x000004
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000000      
+                            0x000004    0x000027      
+                            0x002000    0x002001      
+            39 out of 8453 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    END_1   0x000028    program     static F:\Pic Project\Pic Programs\26-02-2022\Led Blinking Tmr1 with interupt\Led Blinking 100(Ms) with interupt.asm
+                      GOW   0x000027    program     static F:\Pic Project\Pic Programs\26-02-2022\Led Blinking Tmr1 with interupt\Led Blinking 100(Ms) with interupt.asm
+                    LABLE   0x000013    program     static F:\Pic Project\Pic Programs\26-02-2022\Led Blinking Tmr1 with interupt\Led Blinking 100(Ms) with interupt.asm
+             _.org_1_0007   0x000007    program     static F:\Pic Project\Pic Programs\26-02-2022\Led Blinking Tmr1 with interupt\Led Blinking 100(Ms) with interupt.asm
+             _.org_1_0009   0x000009    program     static F:\Pic Project\Pic Programs\26-02-2022\Led Blinking Tmr1 with interupt\Led Blinking 100(Ms) with interupt.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+             _.org_1_0007   0x000007    program     static F:\Pic Project\Pic Programs\26-02-2022\Led Blinking Tmr1 with interupt\Led Blinking 100(Ms) with interupt.asm
+             _.org_1_0009   0x000009    program     static F:\Pic Project\Pic Programs\26-02-2022\Led Blinking Tmr1 with interupt\Led Blinking 100(Ms) with interupt.asm
+                    LABLE   0x000013    program     static F:\Pic Project\Pic Programs\26-02-2022\Led Blinking Tmr1 with interupt\Led Blinking 100(Ms) with interupt.asm
+                      GOW   0x000027    program     static F:\Pic Project\Pic Programs\26-02-2022\Led Blinking Tmr1 with interupt\Led Blinking 100(Ms) with interupt.asm
+                    END_1   0x000028    program     static F:\Pic Project\Pic Programs\26-02-2022\Led Blinking Tmr1 with interupt\Led Blinking 100(Ms) with interupt.asm
+
+
