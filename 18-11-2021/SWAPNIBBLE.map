@@ -1,0 +1,36 @@
+MPLINK 4.48, Linker
+Linker Map File - Created Thu Nov 18 16:58:50 2021
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x00001a
+                   .cinit    romdata   0x00000d    program   0x000004
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x00000e      
+            15 out of 8454 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    END_1   0x00000d    program     static C:\Users\gokul\Desktop\Pic Project\13-11-2021 MUL & DIV\DIVI\59-2.ASM
+                  GOWTHAM   0x000008    program     static C:\Users\gokul\Desktop\Pic Project\13-11-2021 MUL & DIV\DIVI\59-2.ASM
+               SUBROUTINE   0x000008    program     static C:\Users\gokul\Desktop\Pic Project\13-11-2021 MUL & DIV\DIVI\59-2.ASM
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                  GOWTHAM   0x000008    program     static C:\Users\gokul\Desktop\Pic Project\13-11-2021 MUL & DIV\DIVI\59-2.ASM
+               SUBROUTINE   0x000008    program     static C:\Users\gokul\Desktop\Pic Project\13-11-2021 MUL & DIV\DIVI\59-2.ASM
+                    END_1   0x00000d    program     static C:\Users\gokul\Desktop\Pic Project\13-11-2021 MUL & DIV\DIVI\59-2.ASM
+
+

@@ -1,0 +1,9 @@
+#include<p16f877a.inc>
+
+
+ORG 20H
+BCF STATUS,RP0
+BCF STATUS,RP1
+MOVWF H'EE
+NOP
+END

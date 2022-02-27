@@ -1,0 +1,66 @@
+MPASM  5.34                         BLINK.ASM   2-11-2022  12:43:44         PAGE  1
+
+
+LOC  OBJECT CODE     LINE SOURCE TEXT
+  VALUE
+
+                      00001 
+Error[105]  : Cannot open file (Include File "pic16f877a.h" not found)
+                      00002 #include <pic16f877a.h>
+                      00003 
+Error[122]  : Illegal opcode (DELAY_ms)
+                      00004 void DELAY_ms(unsigned int ms_Count)
+Error[108]  : Illegal character ({)
+                      00005 {
+Warning[207]: Found label after column 1. (unsigned)
+Error[122]  : Illegal opcode (int)
+                      00006     unsigned int i,j;
+Warning[207]: Found label after column 1. (for)
+Error[108]  : Illegal character (()
+                      00007     for(i=0;i<ms_Count;i++)
+Error[108]  : Illegal character ({)
+                      00008     {
+Warning[207]: Found label after column 1. (for)
+Error[108]  : Illegal character (()
+                      00009         for(j=0;j<1000;j++);
+Error[108]  : Illegal character (})
+                      00010     }
+Error[108]  : Illegal character (})
+                      00011 }
+                      00012 
+Error[122]  : Illegal opcode (main)
+                      00013 int main() 
+Error[108]  : Illegal character ({)
+                      00014 {
+Error[108]  : Illegal character (/)
+                      00015   /* Configure all the ports as Output */
+Warning[207]: Found label after column 1. (TRISA)
+  00000000            00016     TRISA = 0x00;
+Warning[207]: Found label after column 1. (TRISB)
+  00000000            00017     TRISB = 0x00;
+Warning[207]: Found label after column 1. (TRISC)
+  00000000            00018     TRISC = 0x00;
+Warning[207]: Found label after column 1. (TRISD)
+  00000000            00019     TRISD = 0x00; 
+                      00020     
+Error[129]  : Expected (ENDW)
+                      00021     while(1)
+Error[129]  : Expected (END)
+MPASM  5.34                         BLINK.ASM   2-11-2022  12:43:44         PAGE  2
+
+
+SYMBOL TABLE
+  LABEL                             VALUE 
+
+TRISA                             00000000
+TRISB                             00000000
+TRISC                             00000000
+TRISD                             00000000
+__16F877A                         00000001
+__DEBUG                           1
+
+Errors   :    14
+Warnings :     7 reported,     0 suppressed
+Messages :     0 reported,     0 suppressed
+
+

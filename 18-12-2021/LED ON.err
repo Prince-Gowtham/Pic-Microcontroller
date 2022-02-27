@@ -1,0 +1,12 @@
+Warning[205] F:\PIC PROJECT\PIC PROGRAMS\18-12-2021\LED ON.ASM 2 : Found directive in column 1. (__CONFIG)
+Warning[205] F:\PIC PROJECT\PIC PROGRAMS\18-12-2021\LED ON.ASM 3 : Found directive in column 1. (ORG)
+Warning[203] F:\PIC PROJECT\PIC PROGRAMS\18-12-2021\LED ON.ASM 4 : Found opcode in column 1. (BSF)
+Warning[203] F:\PIC PROJECT\PIC PROGRAMS\18-12-2021\LED ON.ASM 5 : Found opcode in column 1. (BCF)
+Warning[203] F:\PIC PROJECT\PIC PROGRAMS\18-12-2021\LED ON.ASM 6 : Found opcode in column 1. (MOVLW)
+Warning[203] F:\PIC PROJECT\PIC PROGRAMS\18-12-2021\LED ON.ASM 7 : Found opcode in column 1. (MOVWF)
+Message[302] F:\PIC PROJECT\PIC PROGRAMS\18-12-2021\LED ON.ASM 7 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[203] F:\PIC PROJECT\PIC PROGRAMS\18-12-2021\LED ON.ASM 8 : Found opcode in column 1. (BCF)
+Warning[203] F:\PIC PROJECT\PIC PROGRAMS\18-12-2021\LED ON.ASM 9 : Found opcode in column 1. (MOVLW)
+Warning[203] F:\PIC PROJECT\PIC PROGRAMS\18-12-2021\LED ON.ASM 10 : Found opcode in column 1. (MOVWF)
+Warning[203] F:\PIC PROJECT\PIC PROGRAMS\18-12-2021\LED ON.ASM 11 : Found opcode in column 1. (NOP)
+Warning[205] F:\PIC PROJECT\PIC PROGRAMS\18-12-2021\LED ON.ASM 12 : Found directive in column 1. (END)

@@ -1,0 +1,9 @@
+Warning[205] E:\PIC\MOV.ASM 3 : Found directive in column 1. (ORG)
+Warning[203] E:\PIC\MOV.ASM 4 : Found opcode in column 1. (BSF)
+Warning[203] E:\PIC\MOV.ASM 5 : Found opcode in column 1. (BCF)
+Warning[203] E:\PIC\MOV.ASM 6 : Found opcode in column 1. (movwf)
+Warning[209] E:\PIC\MOV.ASM 6 : Missing quote
+Message[302] E:\PIC\MOV.ASM 6 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[203] E:\PIC\MOV.ASM 7 : Found opcode in column 1. (nop)
+Warning[203] E:\PIC\MOV.ASM 8 : Found opcode in column 1. (MOVWF)
+Warning[205] E:\PIC\MOV.ASM 9 : Found directive in column 1. (END)
