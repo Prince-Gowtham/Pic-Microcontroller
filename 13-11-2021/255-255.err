@@ -1,0 +1,17 @@
+Warning[205] DIVI\255-255.ASM 2 : Found directive in column 1. (ORG)
+Warning[203] DIVI\255-255.ASM 3 : Found opcode in column 1. (BCF)
+Warning[203] DIVI\255-255.ASM 4 : Found opcode in column 1. (BCF)
+Warning[203] DIVI\255-255.ASM 5 : Found opcode in column 1. (MOVLW)
+Warning[209] DIVI\255-255.ASM 5 : Missing quote
+Warning[203] DIVI\255-255.ASM 6 : Found opcode in column 1. (MOVWF)
+Warning[203] DIVI\255-255.ASM 7 : Found opcode in column 1. (MOVLW)
+Warning[209] DIVI\255-255.ASM 7 : Missing quote
+Warning[203] DIVI\255-255.ASM 8 : Found opcode in column 1. (MOVWF)
+Warning[203] DIVI\255-255.ASM 9 : Found opcode in column 1. (MOVLW)
+Warning[209] DIVI\255-255.ASM 9 : Missing quote
+Warning[203] DIVI\255-255.ASM 10 : Found opcode in column 1. (CALL)
+Warning[203] DIVI\255-255.ASM 11 : Found opcode in column 1. (GOTO)
+Warning[203] DIVI\255-255.ASM 12 : Found opcode in column 1. (NOP)
+Warning[207] DIVI\255-255.ASM 14 : Found label after column 1. (GOWTHAM)
+Error[113]   DIVI\255-255.ASM 17 : Symbol not previously defined (B)
+Warning[205] DIVI\255-255.ASM 23 : Found directive in column 1. (END)
