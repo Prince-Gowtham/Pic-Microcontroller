@@ -1,0 +1,42 @@
+MPLINK 4.48, Linker
+Linker Map File - Created Sun Dec 19 06:14:35 2021
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000048
+                   .cinit    romdata   0x000024    program   0x000004
+.config_2007_EVENBITSHIFFTINGLEFT.O       code   0x002007    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000025      
+                            0x002007    0x002007      
+            39 out of 8454 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    END_1   0x000024    program     static F:\Pic Project\Pic Programs\30-11-2021 EVEN SHIFT ODD SHIFT\EvenBitShifftingLeft.ASM
+                  GOWTHAM   0x000013    program     static F:\Pic Project\Pic Programs\30-11-2021 EVEN SHIFT ODD SHIFT\EvenBitShifftingLeft.ASM
+                 GOWTHAM1   0x00001a    program     static F:\Pic Project\Pic Programs\30-11-2021 EVEN SHIFT ODD SHIFT\EvenBitShifftingLeft.ASM
+                 GOWTHAM2   0x00001d    program     static F:\Pic Project\Pic Programs\30-11-2021 EVEN SHIFT ODD SHIFT\EvenBitShifftingLeft.ASM
+               SUBROUTINE   0x000013    program     static F:\Pic Project\Pic Programs\30-11-2021 EVEN SHIFT ODD SHIFT\EvenBitShifftingLeft.ASM
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                  GOWTHAM   0x000013    program     static F:\Pic Project\Pic Programs\30-11-2021 EVEN SHIFT ODD SHIFT\EvenBitShifftingLeft.ASM
+               SUBROUTINE   0x000013    program     static F:\Pic Project\Pic Programs\30-11-2021 EVEN SHIFT ODD SHIFT\EvenBitShifftingLeft.ASM
+                 GOWTHAM1   0x00001a    program     static F:\Pic Project\Pic Programs\30-11-2021 EVEN SHIFT ODD SHIFT\EvenBitShifftingLeft.ASM
+                 GOWTHAM2   0x00001d    program     static F:\Pic Project\Pic Programs\30-11-2021 EVEN SHIFT ODD SHIFT\EvenBitShifftingLeft.ASM
+                    END_1   0x000024    program     static F:\Pic Project\Pic Programs\30-11-2021 EVEN SHIFT ODD SHIFT\EvenBitShifftingLeft.ASM
+
+
