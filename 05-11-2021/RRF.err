@@ -1,0 +1,8 @@
+Warning[205] RRF\RRF.ASM 2 : Found directive in column 1. (ORG)
+Warning[203] RRF\RRF.ASM 3 : Found opcode in column 1. (BCF)
+Warning[203] RRF\RRF.ASM 4 : Found opcode in column 1. (MOVLW)
+Warning[209] RRF\RRF.ASM 4 : Missing quote
+Warning[203] RRF\RRF.ASM 5 : Found opcode in column 1. (MOVWF)
+Warning[203] RRF\RRF.ASM 6 : Found opcode in column 1. (RRF)
+Warning[203] RRF\RRF.ASM 7 : Found opcode in column 1. (NOP)
+Warning[205] RRF\RRF.ASM 8 : Found directive in column 1. (END)
